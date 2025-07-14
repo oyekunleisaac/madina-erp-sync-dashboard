@@ -31,7 +31,7 @@ Setup
 1. Clone the repository:
 
   
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/oyekunleisaac/madina-erp-sync-dashboard.git
    
 
 2. Install dependencies:
